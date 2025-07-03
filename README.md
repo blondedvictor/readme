@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/blondedvictor/blondedvictor/main/perfil.jpg" alt="João Victor" width="200" align="right" style="border-radius: 12px" />
+
 
 # João Victor Oliveira Lima
 
